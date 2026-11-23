@@ -41,3 +41,13 @@ Randomize çalışma · N Engl J Med · İlk yayın 2023-08-26 · PubMed özeti 
 İnfarkt ilişkili şok ve erken revaskülarizasyon planında 417 analiz hastası. Erken ECLS ve kontrol ile 30 günlük ölüm %47,8 ve %49,0 (RR 0,98; %95 GA 0,80–1,19; p=0,81). Orta veya ağır kanama %23,4 ve %9,6.
 
 Rutin erken ECLS stratejisi için mortalite avantajı gösterilemedi. Farklı bir cihazla yapılan DanGer-Shock ile doğrudan karşılaştırma yoktur. [ECLS-SHOCK · N Engl J Med 2023](https://pubmed.ncbi.nlm.nih.gov/37634145/)
+
+## 2025 ACC/AHA AKS kılavuzu
+
+2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.
+
+Klinik uygulama kılavuzu · J Am Coll Cardiol · İlk yayın 2025-02-27 · Tam metin yerel arşivde
+
+AKS sonrasında antitrombotik tedavi, iskemik ve kanama riskine göre kişiselleştirilir. Kılavuz aynı zamanda revaskülarizasyon ve taburculuk sonrası sekonder korunma yaklaşımını kapsar.
+
+Bu belge NEO-MINDSET sonuçlarından önce yayımlandı. Yeni bir RCT’nin sonucunu geriye dönük olarak kılavuz önerisi diye aktarmayın. [2025 ACC/AHA AKS kılavuzu · J Am Coll Cardiol 2025](https://pubmed.ncbi.nlm.nih.gov/40013746/)

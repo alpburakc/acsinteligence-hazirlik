@@ -2,7 +2,7 @@
 
 2026-11-28 · 12:00–13:00 · Ana Salon · Kaynak kontrolü 23 Kasım 2026
 
-Program Ultreon 3 ile kalsiyum değerlendirmesini içeriyor. Yazılım sürümüne özgü hasta sonlanımı bu pakette doğrulanmadı. Ölçümün referans kesiti, kılavuz tel gölgesi ve işlem öncesi/sonrası kesit eşleşmesi kontrol edilmeli. Bu bağlamda “kırık”, koroner plak kalsiyumundaki çatlağı ifade eder.
+Ultreon 3.0, üreticinin teknik tanımına göre OCT’de kalsiyum yayını ve kalınlığını otomatik işaretleyip ölçer. [Abbott teknik tanımı](https://www.cardiovascular.abbott/us/en/hcp/products/percutaneous-coronary-intervention/intravascular-imaging/ultreon-software.html) Yazılım sürümüne özgü hasta sonlanımı bu pakette doğrulanmadı. Ölçümün referans kesiti, kılavuz tel gölgesi ve işlem öncesi/sonrası kesit eşleşmesi kontrol edilmeli. Bu bağlamda “kırık”, koroner plak kalsiyumundaki çatlağı ifade eder.
 
 [Literatür](literatur-hazirlik.md) · [Çalışma ayrıntıları](detayli-analiz.md) · [Tartışma](tartisma.md) · [Uzman yorumları](uzman-yorumlari.md) · [Hazır sorular](hazir-yanitlar.md)
 

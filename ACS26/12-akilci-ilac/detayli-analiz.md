@@ -6,7 +6,7 @@
 
 2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes: A Report of the American College of Cardiology/American Heart Association Joint Committee on Clinical Practice Guidelines.
 
-Klinik uygulama kılavuzu · J Am Coll Cardiol · İlk yayın 2025-02-27 · PubMed özeti · tam metin yerel arşivde yok
+Klinik uygulama kılavuzu · J Am Coll Cardiol · İlk yayın 2025-02-27 · Tam metin yerel arşivde
 
 AKS sonrasında antitrombotik tedavi, iskemik ve kanama riskine göre kişiselleştirilir. Kılavuz aynı zamanda revaskülarizasyon ve taburculuk sonrası sekonder korunma yaklaşımını kapsar.
 

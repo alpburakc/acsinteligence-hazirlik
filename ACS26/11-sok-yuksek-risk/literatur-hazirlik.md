@@ -2,7 +2,7 @@
 
 2026-11-28 · 16:30–17:30 · Ana Salon · Kaynak kontrolü 23 Kasım 2026
 
-AKS ile şok ve elektif yüksek riskli PCI için kanıt tabanı ayrıdır. Mekanik komplikasyon, koroner anatomi, reperfüzyon olanağı ve cerrahinin zamanlaması Heart Team tartışmasının parçası olmalı. DanGer-Shock, CHIP-BCIS3 ve ECLS-SHOCK cerrahi ile PCI’yi randomize olarak karşılaştırmadı.
+AKS ile şok ve elektif yüksek riskli PCI için kanıt tabanı ayrıdır. Mekanik komplikasyon, koroner anatomi, reperfüzyon olanağı ve cerrahinin zamanlaması Heart Team tartışmasının parçası olmalı. 2025 AKS kılavuzunda şokta sorumlu damarın acil revaskülarizasyonu ele alınır. STEMI’de PCI yapılamadığında veya başarısız olduğunda, risk altındaki miyokart geniş ve cerrahi hedefler uygunsa acil CABG seçenek olabilir. Mekanik komplikasyon varsa cerrahi değerlendirme ayrı bir önceliktir. Şok cihaz çalışmalarında CABG ve PCI randomize olarak karşılaştırılmadı.
 
 ## Kardiyojenik şok fenotipi
 
@@ -19,3 +19,7 @@ Ağır sol ventrikül disfonksiyonu ile planlı kompleks PCI’de 300 hasta. Pro
 ## ECLS-SHOCK
 
 İnfarkt ilişkili şok ve erken revaskülarizasyon planında 417 analiz hastası. Erken ECLS ve kontrol ile 30 günlük ölüm %47,8 ve %49,0 (RR 0,98; %95 GA 0,80–1,19; p=0,81). Orta veya ağır kanama %23,4 ve %9,6. Rutin erken ECLS stratejisi için mortalite avantajı gösterilemedi. Farklı bir cihazla yapılan DanGer-Shock ile doğrudan karşılaştırma yoktur. [ECLS-SHOCK · N Engl J Med 2023](https://pubmed.ncbi.nlm.nih.gov/37634145/)
+
+## 2025 ACC/AHA AKS kılavuzu
+
+AKS sonrasında antitrombotik tedavi, iskemik ve kanama riskine göre kişiselleştirilir. Kılavuz aynı zamanda revaskülarizasyon ve taburculuk sonrası sekonder korunma yaklaşımını kapsar. Bu belge NEO-MINDSET sonuçlarından önce yayımlandı. Yeni bir RCT’nin sonucunu geriye dönük olarak kılavuz önerisi diye aktarmayın. [2025 ACC/AHA AKS kılavuzu · J Am Coll Cardiol 2025](https://pubmed.ncbi.nlm.nih.gov/40013746/)

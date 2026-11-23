@@ -51,3 +51,13 @@ Küçük randomize çalışma · JACC Cardiovasc Interv · İlk yayın 2019-05-2
 Seçilmiş STEMI hastalarında başarılı predilatasyon sonrası 120 kişi randomize edildi. Dokuzuncu ayda FFR ölçülebilenlerde ortalama FFR DCB ile 0,92, DES ile 0,91 idi. Fizyolojik sonlanımda non-inferiorite bildirildi.
 
 Ölçüm yalnızca 73 hastada vardı. Klinik olay gücü sınırlı. Tüm primer PCI hastalarında stentsiz strateji için dayanak olamaz. [REVELATION · JACC Cardiovasc Interv 2019](https://pubmed.ncbi.nlm.nih.gov/31126887/)
+
+## Koo ve ark. · Stent arkasında kalan yan dalın FFR’si
+
+Physiologic assessment of jailed side branch lesions using fractional flow reserve.
+
+Prospektif fizyoloji serisi · J Am Coll Cardiol · İlk yayın 2005-08-01 · PubMed özeti · tam metin yerel arşivde yok
+
+Ana dala stent sonrası 97 yan dal lezyonundan 94’ünde FFR ölçülebildi. Anjiyografik darlığı en az %75 olan 73 lezyonun sadece 20’si çalışmanın FFR <0,75 tanımına uydu.
+
+2005 çalışmasındaki araştırma eşiği tarihsel olarak verilmiştir. Bulgular her yan dala rutin basınç teli veya DCB gerektiğini göstermez. [Koo ve ark. · Stent arkasında kalan yan dalın FFR’si · J Am Coll Cardiol 2005](https://pubmed.ncbi.nlm.nih.gov/16098427/)

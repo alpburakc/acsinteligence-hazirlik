@@ -6,7 +6,7 @@
 
 Gördüğünüz kalsiyum kırığı planı değiştirdi mi; stent açılımını hangi bağımsız ölçümle doğruladınız?
 
-Program Ultreon 3 ile kalsiyum değerlendirmesini içeriyor. Yazılım sürümüne özgü hasta sonlanımı bu pakette doğrulanmadı. Ölçümün referans kesiti, kılavuz tel gölgesi ve işlem öncesi/sonrası kesit eşleşmesi kontrol edilmeli. Bu bağlamda “kırık”, koroner plak kalsiyumundaki çatlağı ifade eder. [SCAI kalsifik lezyon uzlaşısı · J Soc Cardiovasc Angiogr Interv 2024](https://pubmed.ncbi.nlm.nih.gov/39132214/) · [ECLIPSE · Lancet 2025](https://pubmed.ncbi.nlm.nih.gov/40174596/) · [OCT ile kalsifik nodül kohortu · Circ Cardiovasc Interv 2025](https://pubmed.ncbi.nlm.nih.gov/40814779/)
+Ultreon 3.0, üreticinin teknik tanımına göre OCT’de kalsiyum yayını ve kalınlığını otomatik işaretleyip ölçer. [Abbott teknik tanımı](https://www.cardiovascular.abbott/us/en/hcp/products/percutaneous-coronary-intervention/intravascular-imaging/ultreon-software.html) Yazılım sürümüne özgü hasta sonlanımı bu pakette doğrulanmadı. Ölçümün referans kesiti, kılavuz tel gölgesi ve işlem öncesi/sonrası kesit eşleşmesi kontrol edilmeli. Bu bağlamda “kırık”, koroner plak kalsiyumundaki çatlağı ifade eder. [SCAI kalsifik lezyon uzlaşısı · J Soc Cardiovasc Angiogr Interv 2024](https://pubmed.ncbi.nlm.nih.gov/39132214/) · [ECLIPSE · Lancet 2025](https://pubmed.ncbi.nlm.nih.gov/40174596/) · [OCT ile kalsifik nodül kohortu · Circ Cardiovasc Interv 2025](https://pubmed.ncbi.nlm.nih.gov/40814779/)
 
 ## OCT’de kalsifik nodül görülünce orbital aterektomi IVL’den üstün mü?
 

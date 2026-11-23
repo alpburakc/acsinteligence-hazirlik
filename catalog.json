@@ -49,9 +49,9 @@
     "origin": "79b06ff3-7285-5fce-944a-529d6fb96053",
     "topic": "Canlı Yayın 1: Görüntüleme ve Fizyoloji Eşliğinde Kompleks Bifurkasyon PCI: DCB-Only vs DCB-Based Stratejiler",
     "programId": "iagT748fJruQh8SG2QpH",
-    "created": 1795410852757,
-    "version": "1795410852757-61604484-be6e-5a9a-9ea5-a94235a32da9",
-    "sha256": "b241bd35a89ad5d48e9ac49b4a971cd8a131971194a0f540ebdbba0b87d654c5"
+    "created": 1795411148766,
+    "version": "1795411148766-14922833-2784-5a29-8c95-7f0de3673301",
+    "sha256": "4258596c1a08924c016485ce23e2745b289017374c34894922e6d98663bd8121"
   },
   {
     "key": "program-m6qzG4OI1Mjo19LkfBfP",
@@ -67,9 +67,9 @@
     "origin": "7fc4cff0-e91f-5c8c-91e9-12c3308f7250",
     "topic": "Canlı Yayın 2: OCT ve Orbital Aterektomi Eşliğinde Kompleks Kalsifik Lezyona Girişim",
     "programId": "mL593QkaMZx1yXSKREqf",
-    "created": 1795410852757,
-    "version": "1795410852757-1fcc331e-37a9-5b36-a040-2611d0ae4200",
-    "sha256": "71fcf45b31b0ae32122c8edc14079b634af05285ec8f9401aac083fe707b509f"
+    "created": 1795411148766,
+    "version": "1795411148766-a766ce8b-00d7-598e-a08d-38498ec14015",
+    "sha256": "32d20618935a7fac126c0ca7c11a4c87d1515b474972e82eb53b2d8cf1448511"
   },
   {
     "key": "program-qzvpJfPdFbK1y5WeHcr5",
@@ -94,17 +94,17 @@
     "origin": "10cee20d-ace9-50d6-8492-814184c858a7",
     "topic": "Heart Team Arena: Kardiyojenik Şok ve Yüksek Riskli PCI",
     "programId": "vuTLCTiWFFUMg6fvjDor",
-    "created": 1795410852757,
-    "version": "1795410852757-10c7b3ec-6b8a-51bb-901e-55744f04bbd2",
-    "sha256": "b4ac58d677964098631cb6d75c05e50519de3eb1feedeca58a777afbf89339cb"
+    "created": 1795411148766,
+    "version": "1795411148766-a7c31fb0-debe-56e1-be30-9ddd92fe7026",
+    "sha256": "086632f3f10c2b5cd1c75ba2b2efab70522460884df42e207664ac5145ab0378"
   },
   {
     "key": "program-acs26-rational-drug-2026-11-28",
     "origin": "67fea642-75d2-5eee-84d2-3369045f3f43",
     "topic": "Akılcı İlaç Kullanımı",
     "programId": "acs26-rational-drug-2026-11-28",
-    "created": 1795410852757,
-    "version": "1795410852757-48106e05-e157-571c-ba62-025cd0c51c01",
-    "sha256": "beda38b3924add752d3361d1a25093561ae61e65bb1c0e159ba0e4bfc7ab4d93"
+    "created": 1795411148766,
+    "version": "1795411148766-480af67d-e0de-550a-8759-ebec685bfca6",
+    "sha256": "82dcec9122ca8be45608a123d11d1912009eca04c3d70f57b1b9cf67f7bbd12b"
   }
 ]
