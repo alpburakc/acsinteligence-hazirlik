@@ -23,6 +23,6 @@ Oturum hazırlığı ekranında programdan oturumu seçin. **Aktarım → GitHub
 
 ## Kaynak kapsamı
 
-23 Kasım 2026 tarihinde doğrulandı. 49 PubMed yayını ve bir kongre çalışması kullanıldı. 19 tam metin yerel arşivde. Diğer yayınlarda erişim düzeyi ilgili çalışma kartında belirtilir. GitHub özgün Türkçe notları ve yeniden çizilmiş grafikleri içerir. [Tam metin istek listesi](ACS26/tam-metin-erisim.md)
+23 Kasım 2026 tarihinde doğrulandı. 49 PubMed yayını ve bir kongre çalışması kullanıldı. 19 tam metin yerel arşivde. Diğer yayınlarda erişim düzeyi ilgili çalışma kartında belirtilir. Her oturumun `gorseller` klasöründe yayındaki özgün şekiller, tablolar veya görüntüler bulunur. Kaynak ve lisans her görselin yanında yer alır. Oturum paketleri bu dosyaları ve yayınlanan sayılardan hazırlanan Türkçe grafikleri birlikte içerir. [Tam metin istek listesi](ACS26/tam-metin-erisim.md)
 
 [Max’in 12 yeni soruyla yanıt kontrolü](ACS26/yanit-kontrolu.md)
