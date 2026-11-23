@@ -1,1 +1,110 @@
-[]
+[
+  {
+    "key": "program-84lVVJwxUVpx6w87kvBc",
+    "origin": "399a5489-ea47-59c8-ab7e-1595aab2dfd3",
+    "topic": "Ustalarla Olgular 1: Ana Koroner, Kompleks Bifurkasyon, DCB",
+    "programId": "84lVVJwxUVpx6w87kvBc",
+    "created": 1795410852757,
+    "version": "1795410852757-6e2bffe3-340f-5faf-b6b3-f1005212ed96",
+    "sha256": "0a7e691196f0ffb64488cc40cb59a7c9fbf35f9d20fd6fd798a130dbcfc832b4"
+  },
+  {
+    "key": "program-AtpeJW1ehDMZsWGHPI3z",
+    "origin": "cfc501b5-26aa-51e5-9c38-c9cc70bce950",
+    "topic": "Aritmide Güncel Yönetim Stratejileri",
+    "programId": "AtpeJW1ehDMZsWGHPI3z",
+    "created": 1795410852757,
+    "version": "1795410852757-0418b464-1aa3-5831-abbc-ad6a018d0205",
+    "sha256": "d4e1584ba53dcdd678fe0363d568d38432be686e1378e927fead1bc1f93e4d74"
+  },
+  {
+    "key": "program-Ix0NV02KXXNL92sQPAv3",
+    "origin": "4cd0e1e4-2c74-55c9-b2c3-8d6db4a5e9f5",
+    "topic": "Ustalarla Olgular 2: Kalsifik Lezyonlar",
+    "programId": "Ix0NV02KXXNL92sQPAv3",
+    "created": 1795410852757,
+    "version": "1795410852757-5d4ef88e-017f-58a0-8b49-504351dc1375",
+    "sha256": "f85730a6cdcacfbfafee18f92e3c791b330b92cf5a6be95287a89e6a0d71bfb9"
+  },
+  {
+    "key": "program-LVjQKRGI71mYRI9cM2fz",
+    "origin": "2411f19b-1ca6-5dc9-afb3-712ecf8e0bf2",
+    "topic": "ACS26 Komplikasyonlar",
+    "programId": "LVjQKRGI71mYRI9cM2fz",
+    "created": 1795410852757,
+    "version": "1795410852757-346d9636-0ab1-5768-8546-2b3e8be740f1",
+    "sha256": "f5b0abcc1f012ddc307fc77d03301cfafb55bbb29f156eb6d1d0181fc2e00ee6"
+  },
+  {
+    "key": "program-cTnVqzmX2FZKjDEXo8WT",
+    "origin": "27c32e16-1584-5d30-b184-8537bf74ee3e",
+    "topic": "ACS26 – TCT 2026 Hotline",
+    "programId": "cTnVqzmX2FZKjDEXo8WT",
+    "created": 1795410852757,
+    "version": "1795410852757-a9d96a6e-65cc-55e2-9fc7-1cbccb728266",
+    "sha256": "7054de11a8496bf35cc4cce251ba26b95b7b289e4a8ea48b8110af22b753e460"
+  },
+  {
+    "key": "program-iagT748fJruQh8SG2QpH",
+    "origin": "79b06ff3-7285-5fce-944a-529d6fb96053",
+    "topic": "Canlı Yayın 1: Görüntüleme ve Fizyoloji Eşliğinde Kompleks Bifurkasyon PCI: DCB-Only vs DCB-Based Stratejiler",
+    "programId": "iagT748fJruQh8SG2QpH",
+    "created": 1795410852757,
+    "version": "1795410852757-61604484-be6e-5a9a-9ea5-a94235a32da9",
+    "sha256": "b241bd35a89ad5d48e9ac49b4a971cd8a131971194a0f540ebdbba0b87d654c5"
+  },
+  {
+    "key": "program-m6qzG4OI1Mjo19LkfBfP",
+    "origin": "062d3da0-048a-5b1b-9bad-1f31e8390ef8",
+    "topic": "Kateter Labda Gelecek: AI, Fizyoloji ve Görüntüleme Üçgeninde",
+    "programId": "m6qzG4OI1Mjo19LkfBfP",
+    "created": 1795410852757,
+    "version": "1795410852757-0d96e3dc-22cd-5c80-98e1-bd9675edd087",
+    "sha256": "fce81e7b6323352ab8c226da51719202208ec678217bfb32f7f6d3972129ffc0"
+  },
+  {
+    "key": "program-mL593QkaMZx1yXSKREqf",
+    "origin": "7fc4cff0-e91f-5c8c-91e9-12c3308f7250",
+    "topic": "Canlı Yayın 2: OCT ve Orbital Aterektomi Eşliğinde Kompleks Kalsifik Lezyona Girişim",
+    "programId": "mL593QkaMZx1yXSKREqf",
+    "created": 1795410852757,
+    "version": "1795410852757-1fcc331e-37a9-5b36-a040-2611d0ae4200",
+    "sha256": "71fcf45b31b0ae32122c8edc14079b634af05285ec8f9401aac083fe707b509f"
+  },
+  {
+    "key": "program-qzvpJfPdFbK1y5WeHcr5",
+    "origin": "4027288f-34d4-5b68-be96-555e1b495076",
+    "topic": "Uydu Sempozyum: LYPTIMZIA ile LDL-K Yönetiminde Değişen Yaklaşımlar (FARMANOVA)",
+    "programId": "qzvpJfPdFbK1y5WeHcr5",
+    "created": 1795410852757,
+    "version": "1795410852757-c74b212c-fce9-5508-ad8a-48e3c58df509",
+    "sha256": "4ac7e3d1b3f1ce71dd2a990aa337cc67ec6eb98a9c88b673153fc16239e8346e"
+  },
+  {
+    "key": "program-tS6JYBJ7Wvagh1xcQP6q",
+    "origin": "d1e9cf83-e953-5170-91f6-5f899821331c",
+    "topic": "Canlı Yayın 3: Pulse Field Ablasyon: AF’de Yeni Nesil Girişimler (Pulse Select Kullanımı)",
+    "programId": "tS6JYBJ7Wvagh1xcQP6q",
+    "created": 1795410852757,
+    "version": "1795410852757-3b651c4a-687c-5d97-97dd-cf681dfe6f07",
+    "sha256": "0385a8e892e6cb90837e3e3eb6a11e9bf320abacd6ff21fbf27db6d65f0d02e4"
+  },
+  {
+    "key": "program-vuTLCTiWFFUMg6fvjDor",
+    "origin": "10cee20d-ace9-50d6-8492-814184c858a7",
+    "topic": "Heart Team Arena: Kardiyojenik Şok ve Yüksek Riskli PCI",
+    "programId": "vuTLCTiWFFUMg6fvjDor",
+    "created": 1795410852757,
+    "version": "1795410852757-10c7b3ec-6b8a-51bb-901e-55744f04bbd2",
+    "sha256": "b4ac58d677964098631cb6d75c05e50519de3eb1feedeca58a777afbf89339cb"
+  },
+  {
+    "key": "program-acs26-rational-drug-2026-11-28",
+    "origin": "67fea642-75d2-5eee-84d2-3369045f3f43",
+    "topic": "Akılcı İlaç Kullanımı",
+    "programId": "acs26-rational-drug-2026-11-28",
+    "created": 1795410852757,
+    "version": "1795410852757-48106e05-e157-571c-ba62-025cd0c51c01",
+    "sha256": "beda38b3924add752d3361d1a25093561ae61e65bb1c0e159ba0e4bfc7ab4d93"
+  }
+]
