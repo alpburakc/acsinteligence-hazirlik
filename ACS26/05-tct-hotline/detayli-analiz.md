@@ -12,6 +12,18 @@ CCTA ile planlanan PCI (556) ile IVUS rehberli PCI (549) karşılaştırıldı. 
 
 Çalışma, seçilmiş hastalarda kapsamlı bir BT planlama stratejisini sınadı. İşlem sırasında beklenmeyen bir stent sorununun BT ile saptanabileceğini göstermedi. [P4 · N Engl J Med 2026](https://pubmed.ncbi.nlm.nih.gov/42969897/)
 
+### P4’ü panelde tartışırken
+
+**Hangi hastalar çalışıldı?** Randomizasyondan önce her iki kolda da koroner BT yapılmıştı. Revaskülarizasyon endikasyonu olan hastalarda en az bir epikardiyal lezyonda darlık >%70 ve BT’den hesaplanan FFR ≤0,80 idi. Hastaların %98’i stabil iskemik kalp hastasıydı. Medyan SYNTAX skoru BT kolunda 8, IVUS kolunda 9 idi. Bu hasta profili, sonuçların çok karmaşık anatomiye uygulanmasını sınırlar. [Ana yayın](https://pubmed.ncbi.nlm.nih.gov/42969897/) · [TCTMD](https://www.tctmd.com/news/ccta-noninferior-ivus-pci-guidance-p4-trial)
+
+**BT işlem kararına nasıl girdi?** Operatörler girişimden önce merkezi laboratuvarın üç boyutlu plak ve kalsiyum incelemesini ve fizyolojik değerlendirmesini gördü. İşlemde BT rekonstrüksiyonları anjiyografi açısıyla eşleştirildi. IVUS kolunda stent öncesi ve sonrası intravasküler değerlendirme vardı. Collet’nin belirttiği 2–3 dakika, operatörün hazırlanmış raporu inceleme süresiydi. [TCTMD](https://www.tctmd.com/news/ccta-noninferior-ivus-pci-guidance-p4-trial)
+
+**İşlem ölçümleri ne anlatıyor?** PCI uygulananlarda medyan süre 46 ve 63 dakika, kontrast hacmi 150 ve 170 mL (p<0,001), doz-alan çarpımı 35,6 ve 38,5 Gy·cm² (p=0,07) idi. Bunlar kateter laboratuvarındaki ölçümlerdir. Yeni bir BT çekiminin kontrastı ve radyasyonu toplam maruziyet değerlendirmesine ayrıca girer. İleri kalsiyum modifikasyonu BT ile planlanan kolda %9,2, IVUS kolunda %3,8 oranında kullanıldı. PCI sonrasında ortalama invaziv FFR iki kolda da 0,88 idi. Klinik işlem komplikasyonu sırasıyla 6 ve 9 hastada görüldü. BT kolunda IVUS kullanılan beş hastanın dördünde kullanım elektifti, birinde komplikasyon sonrası kurtarıcıydı. [TCTMD](https://www.tctmd.com/news/ccta-noninferior-ivus-pci-guidance-p4-trial) · [SCAI değerlendirmesi](https://www.scai.org/coronary-ct-angiography-guided-vs-ivus-guided-pci-randomized-p4-trial-coverage-tct-2026) · [Ana yayın](https://pubmed.ncbi.nlm.nih.gov/42969897/)
+
+**Panelistler hangi koşulları vurguladı?** Brilakis uzman merkez deneyimine, anatominin görece düşük karmaşıklığına ve yalnız anjiyografiyle yönlendirilen bir kontrol kolu bulunmamasına dikkat çekti. Kirtane için uygulamadaki öncelik BT yorumlama eğitimi, McEntegart için ise operatörün işlem sırasında hızla okuyabileceği bir sunumdu. [TCTMD](https://www.tctmd.com/news/ccta-noninferior-ivus-pci-guidance-p4-trial)
+
+**Heartflow duyurusundaki iki veri kümesi.** Şirketin açıklamasına göre 23 merkezli P4 çalışmasında FFR-CT ve Heartflow Planner kullanıldı. Bir yıllık hedef damar başarısızlığı randomize P4 çalışmasının sonucudur. Aynı duyurudaki NAVIGATE-PCI, 203 hastalık ayrı bir prospektif kayıttır. PCI Navigator bilgileri görüldüğünde anjiyografi sonrası oluşturulan plan hastaların yaklaşık %70’inde değişti. Stent uzunluğu için %41, lezyon hazırlama tekniği için %12 bildirildi. Bu oranlar karar değişikliğini ölçer. Hastanın klinik sonucuna etkisi bu kayıttan çıkarılamaz. Heartflow ve GE HealthCare P4’e mali destek verdi. [Heartflow şirket duyurusu](https://ir.heartflow.com/news-releases/news-release-details/tct-2026-ct-guided-pci-matches-ivus-outcomes-randomized-p4-trial) · [P4 ana yayını](https://pubmed.ncbi.nlm.nih.gov/42969897/)
+
 ## TRANSFORM II
 
 TRANSFORM II · Sirolimus-coated balloon vs everolimus-eluting stent
