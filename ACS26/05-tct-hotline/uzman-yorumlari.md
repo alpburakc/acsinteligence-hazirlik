@@ -4,7 +4,7 @@
 
 ### TCTMD · 1 Kasım 2026
 
-Carlos Collet, BT’nin bazı planlama kararlarını kateter laboratuvarından önce vermeyi sağladığını tartışıyor. Bu yaklaşımın hangi merkezin görüntü altyapısıyla uygulanabileceği ayrı bir soru. [CCTA Noninferior to IVUS for PCI Guidance: P4 Trial](https://www.tctmd.com/news/ccta-noninferior-ivus-pci-guidance-p4-trial)
+Carlos Collet, BT’nin bazı planlama kararlarını kateter laboratuvarından önce vermeyi sağladığını tartışıyor. Bu yaklaşımın hangi merkezin görüntü altyapısıyla uygulanabileceği ayrı bir soru. PCI yapılan hastalarda medyan işlem süresi BT kolunda 46, IVUS kolunda 63 dakika, işlem sırasında kullanılan kontrast hacmi 150 ve 170 mL idi. Bu ölçümler önceden yapılan BT çekimini kapsamıyor. İşlem sırasındaki radyasyon doz-alan çarpımı 35,6 ve 38,5 Gy·cm² idi (p=0,07). BT kolunda beş hastada IVUS kullanıldı. Dördü elektifti, birinde komplikasyon sonrası kurtarıcı IVUS gerekti. Tartışmacı Emmanouil Brilakis, merkez deneyimi ve sınırlı anatomik karmaşıklığın bulguların genellenebilirliğini etkilediğini vurguladı. [CCTA Noninferior to IVUS for PCI Guidance: P4 Trial](https://www.tctmd.com/news/ccta-noninferior-ivus-pci-guidance-p4-trial)
 
 ### PCRonline · 3 Kasım 2026
 
@@ -19,3 +19,7 @@ Ali Nazmi Çalık, BT’den anatomik ve fizyolojik bilgiyle planlama ile girişi
 S. Tanveer Rab’ın aktardığına göre koroner BT ile planlanan kolda PKG 17 dakika daha kısa sürdü. İleri kalsiyum modifikasyon cihazı kullanım oranı BT kolunda %9,2, IVUS kolunda %3,8 idi. Bu fark, işlem öncesi planlamanın lezyon hazırlığını etkileyebileceğini düşündürür. Cihaz kullanımının klinik sonuca katkısı bu karşılaştırmadan ayrı olarak hesaplanamaz. [SCAI kongre değerlendirmesi](https://www.scai.org/coronary-ct-angiography-guided-vs-ivus-guided-pci-randomized-p4-trial-coverage-tct-2026)
 
 Çalışmanın birincil sonlanımı 12 aylık hedef damar başarısızlığıydı. Oranlar %4,1 ve %4,6 idi. Non-inferiorite sağlandı (p<0,001), üstünlük testinde p=0,73 bulundu. [Collet ve ark., NEJM](https://pubmed.ncbi.nlm.nih.gov/42969897/)
+
+### Heartflow · 1 Kasım 2026 · Şirket duyurusu
+
+Heartflow ve GE HealthCare, araştırmacıların başlattığı P4 çalışmasını destekledi. Heartflow aynı duyuruda ayrı bir prospektif kayıt olan NAVIGATE-PCI’ın 203 hastalık kongre verisini sundu. Operatörler anjiyografiden sonra belirledikleri planı PCI Navigator verisini görünce hastaların yaklaşık %70’inde değiştirdi. Duyuruda stent uzunluğu için %41, lezyon hazırlama tekniği için %12 bildirildi. Burada ölçülen sonuç operatörün plan değişikliğidir. Hastanın klinik sonucuna etkisi bu veriden belirlenemez. [Heartflow duyurusu](https://ir.heartflow.com/news-releases/news-release-details/tct-2026-ct-guided-pci-matches-ivus-outcomes-randomized-p4-trial) · [P4 ana yayını](https://pubmed.ncbi.nlm.nih.gov/42969897/)
