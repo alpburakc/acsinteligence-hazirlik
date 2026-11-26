@@ -10,7 +10,7 @@ CCTA ile planlanan PCI (556) ile IVUS rehberli PCI (549) karşılaştırıldı. 
 
 ## TRANSFORM II
 
-Başarılı hazırlık sonrası 1.842 hasta randomize edildi (922 ve 920). Sol ana koroner dışındaki 2,0–3,5 mm de novo damarlarda sirolimus kaplı balon ile everolimus salan stent karşılaştırıldı. Bir yılda hedef lezyon başarısızlığı %2,1 ve %2,4 (HR 0,86; %95 GA 0,47–1,59; non-inferiorite p=0,004). Birleşim kardiyak ölüm, hedef damar MI ve iskemiye bağlı hedef lezyon revaskülarizasyonudur. Üstünlük gösterilmiş değildir. Araştırma ekibi Lancet kabulü bildirdi. Bu dosyada sonuçların dayanağı 1 Kasım 2026 kongre sunumudur. [TRANSFORM II · TCT 2026, San Diego 2026](https://www.fondazioneric.org/clinical-trials/transform-ii/)
+Başarılı lezyon hazırlığından sonra 1.842 hasta randomize edildi. MagicTouch balonla 12 aylık hedef lezyon başarısızlığı 19/922 (%2,1), everolimus salan stentle 22/920 (%2,4) idi. Non-inferiorite ölçütü karşılandı (p=0,004). Balon kolunda 70 hastaya kurtarıcı stent takıldı (%7,6). Tüm hedef lezyon revaskülarizasyonları balon kolunda daha sıktı (%2,5 ve %1,1). İskemiye bağlı revaskülarizasyon oranları %0,9 ve %0,8 idi. [Cortese ve ark., SSRN 7543719 · tam metin ön baskı](https://ssrn.com/abstract=7543719) [L.A. McKeown, TCTMD · 1 Kasım 2026](https://www.tctmd.com/news/sirolimus-dcb-holds-well-1-year-vs-standard-des-transform-ii) [Aaysha Cader ve Nicola Ryan, PCRonline · 3 Kasım 2026](https://www.pcronline.com/News/Congress-coverages/TCT/2026/TRANSFORM-II-SCB-vs-DES-in-native-coronary-vessels)
 
 ## PROGRESS
 

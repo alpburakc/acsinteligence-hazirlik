@@ -24,10 +24,14 @@ LED sırası: yanıt başlarken **P4 · Hedef damar başarısızlığı**, “17
 
 ## Max, TRANSFORM II’den sonra de novo bir koroner lezyonda hangi durumda stent koymadan işlemi bitirmeyi düşünürsün?
 
-Benim için karar anı, lezyonu balonla hazırladıktan sonra. Damarda TIMI 3 akım varsa, geride en fazla yüzde 30 darlık kalmışsa ve ciddi diseksiyon yoksa, sirolimus kaplı balonla işlemi bitirmeyi düşünürüm. TRANSFORM II’nin önemli ayrıntısı şu: Hastalar ancak hazırlık başarılı olduktan sonra randomize edildi.
+Benim için karar anı, lezyonu balonla hazırladıktan sonra. Akım TIMI 3 ise, geride en fazla yüzde 30 darlık kalmışsa ve tip C veya daha ileri diseksiyon yoksa, MagicTouch balonla işlemi bitirmeyi düşünürüm. Hazırlığı başarısız olan 381 hasta randomize edilmedi. Bu seçim, sonucu hangi hastaya uygulayabileceğimizi belirliyor.
 
-Ekrandaki grafikte bir yıllık hedef lezyon başarısızlığını görüyorsunuz. Bu oran MagicTouch balon grubunda yüzde 2,1, everolimus salan stent grubunda yüzde 2,4’tü. Çalışma non-inferiorite hedefini karşıladı. Bence pratiğe yön veren diğer sayı yüzde 7,6. Balon grubuna ayrılan hastaların bu kadarında yine de kurtarıcı stent gerekti. Dolayısıyla iyi hazırlanmış bir lezyonda damarda kalıcı metal bırakmadan işlemi bitirmek için artık daha güçlü bir dayanağımız var. Akım bozulursa ya da ciddi diseksiyon gelişirse stente geçmek de çalışmada sınanan stratejinin bir parçası.
+Ekrandaki grafikte bir yıllık hedef lezyon başarısızlığını görüyorsunuz. Balonla yüzde 2,1, everolimus salan stentle yüzde 2,4. Çalışma non-inferiorite hedefini karşıladı. Balon kolunda yüzde 7,6 oranında kurtarıcı stent gerekti. Akım bozulduğunda stent takmak da bu stratejinin parçasıydı.
+
+Beni temkinli tutan nokta tekrar girişimler. Bir yıl içinde aynı lezyona balon grubunda 23, stent grubunda 10 hastada yeniden müdahale edildi. Yalnız iskemi nedeniyle yapılanları sayınca bu sayılar 8 ve 7. O yüzden iyi hazırlanmış bir lezyonda bu balonu seçenek olarak görüyorum. Daha uzun takipte yeniden girişim ihtiyacının nasıl değişeceği hâlâ açık.
 
 [Çalışma tasarımı](https://pubmed.ncbi.nlm.nih.gov/36054266/) · [TCT 2026 sonuçları](https://www.conceptmedical.com/press_release/transform-ii-primary-results-tct-2026/) · [PCRonline panel değerlendirmesi](https://www.pcronline.com/News/Congress-coverages/TCT/2026/TRANSFORM-II-SCB-vs-DES-in-native-coronary-vessels)
+
+[Cortese ve ark., SSRN 7543719 · tam metin ön baskı](https://ssrn.com/abstract=7543719) · [L.A. McKeown, TCTMD · 1 Kasım 2026](https://www.tctmd.com/news/sirolimus-dcb-holds-well-1-year-vs-standard-des-transform-ii)
 
 LED sırası: Başlangıçta lezyon hazırlığı ölçütleri görünür. “Ekrandaki grafikte” ile dikey sonuç grafiği açılır. “Yüzde 7,6” ile grafiğin altında **Balon kolunda kurtarıcı stent kullanımı %7,6** belirir.

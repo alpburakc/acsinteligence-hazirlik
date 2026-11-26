@@ -26,13 +26,13 @@ CCTA ile planlanan PCI (556) ile IVUS rehberli PCI (549) karşılaştırıldı. 
 
 ## TRANSFORM II
 
-TRANSFORM II · Sirolimus-coated balloon vs everolimus-eluting stent
+**Kaynak ve hasta seçimi.** Cortese ve arkadaşlarının 27 sayfalık SSRN ön baskısı, TCT 2026 sunumunu tamamlayan birincil kaynaktır. Şekil 1’de 2.699 taranan hastanın 476’sı uygunluk aşamasında eleniyor. Kalan 2.223 hastanın 381’inde lezyon hazırlığı başarısız olduğu için randomizasyon yapılmıyor. Çalışmaya giren 1.842 hastada rezidü darlık ≤%30, TIMI 3 akım ve NHLBI tip C veya daha ileri diseksiyon bulunmaması şarttı. Sol ana koroner, hazırlığı engelleyen ağır kalsifikasyon, planlı çift stent bifurkasyon girişimi ve görünür trombüs dışlama ölçütleri arasındaydı. [Cortese ve ark., SSRN 7543719 · tam metin ön baskı](https://ssrn.com/abstract=7543719)
 
-Kongrede sunulmuş randomize çalışma · TCT 2026, San Diego · İlk yayın 2026-11-01 · Kongre sunumu ve araştırma ekibi duyurusu
+**Birincil sonuç.** On iki ayda kardiyak ölüm, hedef damar infarktüsü veya iskemiye bağlı hedef lezyon revaskülarizasyonundan oluşan birleşik sonlanım balon kolunda 19/922 (%2,1), stent kolunda 22/920 (%2,4) görüldü. HR 0,86 (%95 GA 0,47–1,59). Kaplan–Meier mutlak risk farkı −0,40 yüzde puanıydı. Tek taraflı %95 üst sınır +0,78 puanla önceden belirlenen +1,5 puanlık marjın altında kaldı (non-inferiorite p=0,004). Her iki kolda beklenenden az olay görüldü. Üstünlük veya uzun vadeli stentsiz tedavi avantajı için bu bir yıllık karşılaştırma yeterli değildir. [Cortese ve ark., SSRN 7543719 · tam metin ön baskı](https://ssrn.com/abstract=7543719)
 
-Başarılı hazırlık sonrası 1.842 hasta randomize edildi (922 ve 920). Sol ana koroner dışındaki 2,0–3,5 mm de novo damarlarda sirolimus kaplı balon ile everolimus salan stent karşılaştırıldı. Bir yılda hedef lezyon başarısızlığı %2,1 ve %2,4 (HR 0,86; %95 GA 0,47–1,59; non-inferiorite p=0,004). Birleşim kardiyak ölüm, hedef damar MI ve iskemiye bağlı hedef lezyon revaskülarizasyonudur.
+**Tekrar girişim neden önemli?** Tablo 3’te tüm hedef lezyon revaskülarizasyonları balonla 23/922, stentle 10/920 (HR 2,31, %95 GA 1,10–4,85). Klinik/iskemik gerekçeyle yapılanlar 8/922 ve 7/920 (HR 1,15, %95 GA 0,42–3,17). Birincil birleşime yalnızca iskemiye bağlı tekrar girişim giriyor. Klinik gerekçeli olayların sayısı az, güven aralığı geniş. İkincil sonlanımlar için çoklu karşılaştırma düzeltmesi yapılmadı. Tüm tekrar girişimlerdeki fark, inferiorite kanıtı veya kanıtlanmış bir mekanizma gibi sunulmamalı. [Cortese ve ark., SSRN 7543719 · tam metin ön baskı](https://ssrn.com/abstract=7543719)
 
-Üstünlük gösterilmiş değildir. Araştırma ekibi Lancet kabulü bildirdi. Bu dosyada sonuçların dayanağı 1 Kasım 2026 kongre sunumudur. [TRANSFORM II · TCT 2026, San Diego 2026](https://www.fondazioneric.org/clinical-trials/transform-ii/)
+**Panelde ayrıntı sorulursa.** Hedef damar infarktüsü 9 ve 10 hastada (%1,0 ve %1,1), tüm nedenlere bağlı ölüm her kolda 17 hastada (%1,8) görüldü. Akut lümen kazanımı balonla 0,76 mm, stentle 1,30 mm idi. Görüntüleme kullanımı %25 ve %26, balon kolunda kurtarıcı stent 70/922 idi. Tablo 2 ve 3’te ilk grup MagicTouch, ikinci grup everolimus salan stenttir. [Cortese ve ark., SSRN 7543719 · tam metin ön baskı](https://ssrn.com/abstract=7543719)
 
 ## PROGRESS
 
