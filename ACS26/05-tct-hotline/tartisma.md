@@ -10,7 +10,7 @@ P4’te olay hedef damar, TRANSFORM II’de hedef lezyon, PROGRESS’te ölüm v
 
 ## Orta aort darlığında PROGRESS’in hangi bulgusu kararımızı değiştirebilir?
 
-Risk özelliği olan orta darlıkta iki yıllık ölüm veya kalp yetersizliği olayı erken TAVI ile %16,7, izlemle %23,9 idi. Farkı kalp yetersizliği olayları taşıdı. Ölüm tek başına daha düşük değildi. Dolayısıyla sonucu, çalışmadaki risk profiline uyan hastalar için tartışırım. [PROGRESS · N Engl J Med 2026](https://pubmed.ncbi.nlm.nih.gov/42970708/) · [TAVR UNLOAD · J Am Coll Cardiol 2025](https://pubmed.ncbi.nlm.nih.gov/39480381/)
+Benim için en önemli bulgu, kalp yetersizliği nedeniyle kötüleşmenin azalması. En az bir risk özelliği taşıyan orta aort darlığı hastalarında, iki yılda ölüm veya kalp yetersizliği olayı erken TAVI ile yüzde 16,7, yakın izlemle yüzde 23,9 görüldü. Ölüm tek başına incelendiğinde sağkalım avantajı gösterilemedi. Bir ayrıntı önemli: İzlem kolunun yarıdan fazlasına iki yıl içinde zaten kapak değişimi yapıldı. Dolayısıyla semptomu ya da kalpte etkilenme bulgusu olan bir hastada, kalp ekibiyle tartışacağım soru kapağı ne zaman değiştireceğimiz olur. [Généreux ve ark., NEJM · 2 Kasım 2026](https://doi.org/10.1056/NEJMoa2607326) [PROGRESS · N Engl J Med 2026](https://pubmed.ncbi.nlm.nih.gov/42970708/) · [TAVR UNLOAD · J Am Coll Cardiol 2025](https://pubmed.ncbi.nlm.nih.gov/39480381/)
 
 ## P4 ve TRANSFORM II aynı tür başarıyı mı gösterdi?
 

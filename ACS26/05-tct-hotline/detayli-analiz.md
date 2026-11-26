@@ -36,13 +36,15 @@ CCTA ile planlanan PCI (556) ile IVUS rehberli PCI (549) karşılaştırıldı. 
 
 ## PROGRESS
 
-TAVR in Patients with Moderate Aortic Stenosis with At-Risk Features.
+Généreux ve ark. · The New England Journal of Medicine · 2 Kasım 2026 · PMID 42970708 · Tam metin incelendi. [Généreux ve ark., NEJM · 2 Kasım 2026](https://doi.org/10.1056/NEJMoa2607326)
 
-Randomize üstünlük çalışması · N Engl J Med · İlk yayın 2026-11-02 · PubMed özeti · tam metin yerel arşivde yok
+**Hasta seçimi ve karşılaştırma.** Açık etiketli çalışmada ortalama yaş 78, ortalama kapak alanı 1,2 cm², ortalama tepe hız 3,3 m/sn idi. Transfemoral, balonla genişleyen kapakla erken TAVI koluna 373, klinik izlem koluna 371 hasta atandı. En az bir risk özelliği gerekiyordu. Bunlar arasında kapakla ilişkili semptom, LVEF <%60, en az ikinci derece diyastolik disfonksiyon, atım hacmi indeksi <35 mL/m², yakın dönemde atriyal fibrilasyon, yüksek NT-proBNP ve yüksek kapak kalsiyum skoru vardı. LVEF <%20 olanlar dışlandı. [Généreux ve ark., NEJM · 2 Kasım 2026](https://doi.org/10.1056/NEJMoa2607326)
 
-En az bir risk özelliği olan orta aort darlığında 744 hasta. İki yılda ölüm veya kalp yetersizliği olayı TAVI ile %16,7, klinik izlemle %23,9. Mutlak fark −7,2 yüzde puanı (%95 GA −13,1 ila −1,3; p=0,02). Kalp yetersizliği olayı %10,8 ve %19,0, tüm ölüm %8,4 ve %7,3.
+**İki yıllık etkinlik, Tablo 2 (s. 9).** En az bir risk özelliği olan, 65 yaş ve üzeri 744 hasta randomize edildi. İki yıllık Kaplan–Meier tahminleriyle ölüm veya kalp yetersizliği olayı erken TAVI ile %16,7, klinik izlemle %23,9 idi (mutlak fark −7,2 yüzde puanı, %95 GA −13,1 ila −1,3, üstünlük için p=0,02). Kalp yetersizliği olayı %10,8 ve %19,0, tüm nedenlere bağlı ölüm %8,4 ve %7,3 idi. İzlem kolunda iki yılda kapak değişiminin kümülatif insidansı %57,4 oldu. Birincil olay sayıları 60 ve 85, ölüm sayıları 30 ve 26 idi. Ölüm için bildirilen mutlak fark +1,0 yüzde puanı (%95 GA −2,9 ila +5,0). Kalp yetersizliği olayı için yeni veya kötüleşen semptom, en az iki objektif dekompansasyon bulgusu ve kalp yetersizliğine yönelik tedavi birlikte aranıyordu. Hastaneye yatış şart değildi. Tek başına gecikmiş kapak değişimi olay sayılmadı. [Généreux ve ark., NEJM · 2 Kasım 2026](https://doi.org/10.1056/NEJMoa2607326)
 
-Birleşik sonuç olumlu. Ölüm tek başına daha düşük değildi. Risk özelliği olmayan tüm orta darlıklara genellenemez. [PROGRESS · N Engl J Med 2026](https://pubmed.ncbi.nlm.nih.gov/42970708/)
+**Zamanlama ve yorum, Şekil 3.** İzlem kolunda iki yılda 204 kişi kapak değişimine gitti. Bunların 166’sında (%81,4) gerekçe ağır darlığa ilerleme ve sınıf I endikasyondu. %57,4 zaman içinde hesaplanan kümülatif insidanstır. Sonuç, risk özelliği bulunan hastalarda erken girişim ile gerektiğinde girişim yapılan yakın izlemin karşılaştırmasına aittir. Çalışma açık etiketliydi ve olayları değerlendiren komite tedavi grubunu biliyordu. Bu durum özellikle kalp yetersizliği olaylarının değerlendirilmesini etkileyebilir. [Généreux ve ark., NEJM · 2 Kasım 2026](https://doi.org/10.1056/NEJMoa2607326)
+
+**Güvenlik ve ikincil sonuçlar.** Erken TAVI yapılan 358 hastada 30 günlük birleşik güvenlik olayı 21 kişide (%5,9) görüldü. Test önceden belirlenen %13,7 performans eşiğine karşı yapıldı. Yeni kalıcı pil oranı erken girişimden sonra %13,0 idi. İlk hiyerarşik ikincil sonlanımda (ölüm, inme veya kalp yetersizliği yatışı) p=0,07 bulundu. Sonraki sonuçlar betimsel okunmalı. Örneğin iki yıllık kalp yetersizliği yatışı %7,4 ve %14,9 idi. [Généreux ve ark., NEJM · 2 Kasım 2026](https://doi.org/10.1056/NEJMoa2607326)
 
 ## TAVR UNLOAD
 

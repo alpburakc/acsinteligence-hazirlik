@@ -14,7 +14,7 @@ Başarılı lezyon hazırlığından sonra 1.842 hasta randomize edildi. MagicTo
 
 ## PROGRESS
 
-En az bir risk özelliği olan orta aort darlığında 744 hasta. İki yılda ölüm veya kalp yetersizliği olayı TAVI ile %16,7, klinik izlemle %23,9. Mutlak fark −7,2 yüzde puanı (%95 GA −13,1 ila −1,3; p=0,02). Kalp yetersizliği olayı %10,8 ve %19,0, tüm ölüm %8,4 ve %7,3. Birleşik sonuç olumlu. Ölüm tek başına daha düşük değildi. Risk özelliği olmayan tüm orta darlıklara genellenemez. [PROGRESS · N Engl J Med 2026](https://pubmed.ncbi.nlm.nih.gov/42970708/)
+En az bir risk özelliği olan, 65 yaş ve üzeri 744 hasta randomize edildi. İki yıllık Kaplan–Meier tahminleriyle ölüm veya kalp yetersizliği olayı erken TAVI ile %16,7, klinik izlemle %23,9 idi (mutlak fark −7,2 yüzde puanı, %95 GA −13,1 ila −1,3, üstünlük için p=0,02). Kalp yetersizliği olayı %10,8 ve %19,0, tüm nedenlere bağlı ölüm %8,4 ve %7,3 idi. İzlem kolunda iki yılda kapak değişiminin kümülatif insidansı %57,4 oldu. [Généreux ve ark., NEJM · 2 Kasım 2026](https://doi.org/10.1056/NEJMoa2607326)
 
 ## TAVR UNLOAD
 
