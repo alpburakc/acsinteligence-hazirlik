@@ -1,6 +1,6 @@
 # ACS26 – TCT 2026 Hotline
 
-2026-11-28 · 08:30–09:30 · Ana Salon · Kaynak kontrolü 23 Kasım 2026
+2026-11-28 · 08:30–09:30 · Ana Salon · Son güncelleme 26 Kasım 2026
 
 ## Orta aort darlığında PROGRESS’in hangi bulgusu kararımızı değiştirebilir?
 
@@ -35,3 +35,21 @@ Beni temkinli tutan nokta tekrar girişimler. Bir yıl içinde aynı lezyona bal
 [Cortese ve ark., SSRN 7543719 · tam metin ön baskı](https://ssrn.com/abstract=7543719) · [L.A. McKeown, TCTMD · 1 Kasım 2026](https://www.tctmd.com/news/sirolimus-dcb-holds-well-1-year-vs-standard-des-transform-ii)
 
 LED sırası: Başlangıçta lezyon hazırlığı ölçütleri görünür. “Ekrandaki grafikte” ile dikey sonuç grafiği açılır. “Yüzde 7,6” ile grafiğin altında **Balon kolunda kurtarıcı stent kullanımı %7,6** belirir.
+
+## P4 · BT ile çok iyi planladığınız kalsifik bir lezyonda, işlem sonunda hangi bulgu size yine de IVUS yaptırır?
+
+Balonun kalsifik segmentte tam açılmadığını gördüysem ya da son anjiyografide stentin bir bölümünde dar bir bel kaldıysa IVUS ile bakarım. BT kalsiyumun yerini önceden gösterir. İşlem sonunda ise asıl sorum, stentin en dar yerde ne kadar açıldığı ve ek dilatasyona ihtiyaç olup olmadığıdır.
+
+[Ali Nazmi Çalık · PCRonline](https://www.pcronline.com/News/Congress-coverages/TCT/2026/P4-Trial-Coronary-CT-angiography-guided-vs-IVUS-guided-PCI) · [Emmanouil Brilakis · TCTMD](https://www.tctmd.com/news/ccta-noninferior-ivus-pci-guidance-p4-trial) · [Collet ve ark. · P4 ana yayını](https://pubmed.ncbi.nlm.nih.gov/42969897/)
+
+## TRANSFORM II · DCB sonrası kontrol anjiyografisinde yeniden daralma görürseniz, tekrar girişim kararınızda semptom ve objektif iskemiye ne kadar ağırlık verirsiniz?
+
+Stabil bir hastada önce anginanın geri dönüp dönmediğini ve o lezyonun iskemiye yol açıp açmadığını değerlendiririm. Orta dereceli bir darlıkta karar belirsizse koroner fizyoloji yardımcı olur. TRANSFORM II’de aynı lezyona balon grubunda 23, stent grubunda 10 hastada yeniden girişim yapıldı. İskemiye bağlı girişim sayıları ise 8 ve 7’ydi. Bu yüzden tek başına anjiyografik görünüm beni tekrar girişime götürmez.
+
+[Kyung Woo Park ve Bernardo Cortese · TCTMD](https://www.tctmd.com/news/sirolimus-dcb-holds-well-1-year-vs-standard-des-transform-ii) · [Aaysha Cader ve Nicola Ryan · PCRonline](https://www.pcronline.com/News/Congress-coverages/TCT/2026/TRANSFORM-II-SCB-vs-DES-in-native-coronary-vessels) · [Cortese ve ark. · TRANSFORM II ön baskısı, Tablo 3](https://ssrn.com/abstract=7543719)
+
+## PROGRESS · Orta aort darlığı, HFpEF ve atriyal fibrilasyonu birlikte olan, nefes darlığı devam eden bir hastada sizi yakın izlemden erken TAVI tartışmasına geçiren bulgu ne olur?
+
+Beni en çok, sıvı yükü ve ventrikül hızı kontrol altındayken tekrarlayan, objektif olarak belgelenmiş kalp yetersizliği atağı düşündürür. Önce ekoyu yeniden değerlendirir, düşük akımın ağır darlığı maskelemediğinden emin olurum. Darlık gerçekten orta derecedeyse ve kapağın yakınmalara katkısı hâlâ kuvvetliyse erken TAVI’yi kalp ekibinde tartışırım. PROGRESS’te beklenen kazanım kalp yetersizliği olaylarının azalmasıydı. Sağkalım kazancı gösterilmedi.
+
+[Catherine M. Otto · NEJM editoryali](https://doi.org/10.1056/NEJMe2613400) · [Stephan Windecker · TCTMD](https://www.tctmd.com/news/progress-tavi-effective-safe-moderate-risk-features) · [Généreux ve ark. · PROGRESS ana yayını](https://doi.org/10.1056/NEJMoa2607326)
