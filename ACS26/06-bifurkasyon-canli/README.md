@@ -6,7 +6,7 @@ Görüntüleme ana dal stent geometrisi ve yan dal erişimini gösterirken fizyo
 
 [Literatür](literatur-hazirlik.md) · [Çalışma ayrıntıları](detayli-analiz.md) · [Tartışma](tartisma.md) · [Uzman yorumları](uzman-yorumlari.md) · [Hazır sorular](hazir-yanitlar.md)
 
-[OCVC-BIF · Yan dal restenozu](grafik-42900708.png)
+[DCB-BIF · Bir yılda majör kardiyak olaylar](grafik-dcb-bif.png) · [OCVC-BIF · Yan dal restenozu](grafik-42900708.png)
 
 - IVUS Gözden Düşüyor mu Yoksa Gözümüz Olmaya Devam mı Ediyor? (5 dk)
 - STEMI’de DCB Kullanımının Yeri
