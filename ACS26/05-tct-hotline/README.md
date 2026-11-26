@@ -6,7 +6,7 @@ P4’te olay hedef damar, TRANSFORM II’de hedef lezyon, PROGRESS’te ölüm v
 
 [Literatür](literatur-hazirlik.md) · [Çalışma ayrıntıları](detayli-analiz.md) · [Tartışma](tartisma.md) · [Uzman yorumları](uzman-yorumlari.md) · [Hazır sorular](hazir-yanitlar.md)
 
-[PROGRESS · Ölüm veya kalp yetersizliği olayı](grafik-42970708.png) · [P4 · Hedef damar başarısızlığı](grafik-42969897.png) · [P4 · İşlem süresi ve kontrast hacmi](grafik-p4-sure-kontrast.png) · [TRANSFORM II · Hedef lezyon başarısızlığı](grafik-TRANSFORM.png)
+[PROGRESS · Ölüm veya kalp yetersizliği olayı](grafik-42970708.png) · [PROGRESS · Tüm nedenlere bağlı ölüm](gorseller/grafik-progress-olum.png) · [PROGRESS · Kalp yetersizliği olayı](gorseller/grafik-progress-kalp-yetersizligi.png) · [P4 · Hedef damar başarısızlığı](grafik-42969897.png) · [P4 · İşlem süresi ve kontrast hacmi](grafik-p4-sure-kontrast.png) · [TRANSFORM II · Hedef lezyon başarısızlığı](grafik-TRANSFORM.png)
 
 - PKG’de Koroner BT vs IVUS Rehberliği: P4 Çalışması
 - De Novo Lezyonlarda DCB vs DES: TRANSFORM II Çalışması
