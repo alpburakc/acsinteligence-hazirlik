@@ -40,71 +40,71 @@
     "origin": "27c32e16-1584-5d30-b184-8537bf74ee3e",
     "topic": "ACS26 – TCT 2026 Hotline",
     "programId": "cTnVqzmX2FZKjDEXo8WT",
-    "created": 1795703413235,
-    "version": "1795703413235-a65f5ef4-404c-4fad-889a-fbf165131ca1",
-    "sha256": "74e7f6def24f123caec5564252f13c814e03e9404301a2994998282662c3a433"
+    "created": 1795727912210,
+    "version": "1795727912210-64cbe7ce-eb69-47ab-bfdb-ce4abbee20e3",
+    "sha256": "18468ad57a092f616d6b5d2d4f6a6de8814db0755f7a3c66b7d529703641132c"
   },
   {
     "key": "program-iagT748fJruQh8SG2QpH",
     "origin": "79b06ff3-7285-5fce-944a-529d6fb96053",
     "topic": "Canlı Yayın 1: Görüntüleme ve Fizyoloji Eşliğinde Kompleks Bifurkasyon PCI: DCB-Only vs DCB-Based Stratejiler",
     "programId": "iagT748fJruQh8SG2QpH",
-    "created": 1795704234128,
-    "version": "1795704234128-2f79a141-7c68-419e-86f2-2724ac9a922e",
-    "sha256": "5c1e05058a5c0bad8ea2a8556d3d3f22cbb00b06c792fe95bb47f6768c7afdbd"
+    "created": 1795727912210,
+    "version": "1795727912210-d170fb93-c5a2-4671-b8e3-d7e5b41743ee",
+    "sha256": "5a21b011a1250b92ccb2041af6c27ccd2d47837f23c928797ce1a67d58fdb194"
   },
   {
     "key": "program-m6qzG4OI1Mjo19LkfBfP",
     "origin": "062d3da0-048a-5b1b-9bad-1f31e8390ef8",
     "topic": "Kateter Labda Gelecek: AI, Fizyoloji ve Görüntüleme Üçgeninde",
     "programId": "m6qzG4OI1Mjo19LkfBfP",
-    "created": 1795445229922,
-    "version": "1795445229922-b4dcb170-70e9-41ee-97df-f49a23120680",
-    "sha256": "5673211119d00576b0a326345a2e57a698b4c93c2a10a265106d7c6859fb59f9"
+    "created": 1795727912210,
+    "version": "1795727912210-f05ac9cf-d702-49d7-be27-0d56d055158d",
+    "sha256": "9c963191edc55b400d0880078946e45b1067a3213d5fbfe0b5bcce070e92ffe1"
   },
   {
     "key": "program-mL593QkaMZx1yXSKREqf",
     "origin": "7fc4cff0-e91f-5c8c-91e9-12c3308f7250",
     "topic": "Canlı Yayın 2: OCT ve Orbital Aterektomi Eşliğinde Kompleks Kalsifik Lezyona Girişim",
     "programId": "mL593QkaMZx1yXSKREqf",
-    "created": 1795445229922,
-    "version": "1795445229922-747a30df-4073-42a0-bfe9-3e7693fb73f4",
-    "sha256": "119b309d9513e1ca607d983ad649bd33e733bbe6e679e7eb6cf3e55c2a778496"
+    "created": 1795727912210,
+    "version": "1795727912210-66093ac5-5564-4789-b9af-4059431bec89",
+    "sha256": "091e11490abfe67d9d6a8d082fd97d84e37a5b8d1e8bd4d981ab02f37851bf5f"
   },
   {
     "key": "program-qzvpJfPdFbK1y5WeHcr5",
     "origin": "4027288f-34d4-5b68-be96-555e1b495076",
     "topic": "Uydu Sempozyum: LYPTIMZIA ile LDL-K Yönetiminde Değişen Yaklaşımlar (FARMANOVA)",
     "programId": "qzvpJfPdFbK1y5WeHcr5",
-    "created": 1795445229922,
-    "version": "1795445229922-6f0bfc53-6946-4214-901c-4f9564f10631",
-    "sha256": "d60d08e09ec89935e91ac78ef9638fbbff5a57ae52ab6c20dd8d8af23e3facea"
+    "created": 1795727912210,
+    "version": "1795727912210-fa00f324-9c5c-44b2-a37c-6f03e64cec37",
+    "sha256": "32743a8b533b1c27fd2d31751fff0cdf7c0fb9747002989d7b3d6049b3099ac4"
   },
   {
     "key": "program-tS6JYBJ7Wvagh1xcQP6q",
     "origin": "d1e9cf83-e953-5170-91f6-5f899821331c",
     "topic": "Canlı Yayın 3: Pulse Field Ablasyon: AF’de Yeni Nesil Girişimler (Pulse Select Kullanımı)",
     "programId": "tS6JYBJ7Wvagh1xcQP6q",
-    "created": 1795445229922,
-    "version": "1795445229922-904ff3ab-650d-4004-8b5c-cabde4732228",
-    "sha256": "57f49508d581d960eee9de93e1cf5686709036dfa3cd14a0fd91e9162407e1fb"
+    "created": 1795727912210,
+    "version": "1795727912210-9f60590e-9635-4033-9535-9eec569a201a",
+    "sha256": "77c643e749ac1f028c91d7307bef1737edaa23c98284bd287ab0464376cd12dc"
   },
   {
     "key": "program-vuTLCTiWFFUMg6fvjDor",
     "origin": "10cee20d-ace9-50d6-8492-814184c858a7",
     "topic": "Heart Team Arena: Kardiyojenik Şok ve Yüksek Riskli PCI",
     "programId": "vuTLCTiWFFUMg6fvjDor",
-    "created": 1795445229922,
-    "version": "1795445229922-ea5d8bdd-6128-4813-8114-c14fc79c02d4",
-    "sha256": "cca04ab2b122df093d2db7b074cecd14349e5ceb78a95fd22bc67bff05f46951"
+    "created": 1795727912210,
+    "version": "1795727912210-9b7a5b94-f8d4-4aae-95c9-6bb7312f0797",
+    "sha256": "c37af160562fc067775d4213561643d0c8c3fd26eb49e35a6fd275624559234e"
   },
   {
     "key": "program-acs26-rational-drug-2026-11-28",
     "origin": "67fea642-75d2-5eee-84d2-3369045f3f43",
     "topic": "Akılcı İlaç Kullanımı",
     "programId": "acs26-rational-drug-2026-11-28",
-    "created": 1795445229922,
-    "version": "1795445229922-029f9a38-0a4c-4b3e-a876-607145ed31d8",
-    "sha256": "3535fdb65da73f12d391b68df0a73f6d5a3cb3bc5afb6c290a4ba639bd5fdf29"
+    "created": 1795727912210,
+    "version": "1795727912210-a6da3a3f-cf60-4ae3-b80c-39534dcf7ba2",
+    "sha256": "a8f8551c3adb25b55bdc311a80885270096bd15348c9d6cb3286b47b8205a630"
   }
 ]

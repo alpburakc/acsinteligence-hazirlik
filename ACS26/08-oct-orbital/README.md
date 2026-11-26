@@ -11,3 +11,7 @@ Ultreon 3.0, üreticinin teknik tanımına göre OCT’de kalsiyum yayını ve k
 - OCT, Ultreon 3 ile Kalsifikasyon Değerlendirmesi
 
 [ACS26 bilimsel programı](https://acslive.org/acs26/)
+
+## Ek sahne grafikleri
+
+- [ECLIPSE · Hedef damar başarısızlığı](grafik-eclipse.png)

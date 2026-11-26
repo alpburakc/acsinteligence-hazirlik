@@ -1,11 +1,29 @@
 # Akılcı İlaç Kullanımı
 
-2026-11-28 · 17:30–17:35 · Ortak Program · Kaynak kontrolü 23 Kasım 2026
+28 Kasım Cumartesi · Moderatör için iki klinik soru ve bir klinik bakış sorusu
 
-## AKS sonrasında aspirini ilk günlerde kesmekle bir ay sonra kesmek aynı mı?
+## Max, akut koroner sendromdan hemen sonra aspirin kesmekle bir ay sonra kesmek neden farklı kararlar?
 
-Hayır. NEO-MINDSET’te ilk dört günde aspirin kesildiğinde iskemik birleşik sonuçta non-inferiorite gösterilemedi. ULTIMATE-DAPT ise bir ay olaysız kalan hastaları seçti. Bu seçilmiş grupta tikagrelor tek başına klinik açıdan önemli kanamayı azaltırken iskemik birleşik sonuç için non-inferioriteyi karşıladı. [NEO-MINDSET · N Engl J Med 2025](https://pubmed.ncbi.nlm.nih.gov/40888723/) · [ULTIMATE-DAPT · Lancet 2024](https://pubmed.ncbi.nlm.nih.gov/38599220/)
+NEO-MINDSET’te güçlü P2Y12 inhibitörü sürdürülüp ilk dört günde aspirin kesildi. Bir yılda ölüm veya iskemik olay yüzde 7, ikili tedavide yüzde 5,5 idi. Erken aspirin kesme, çalışmanın geri kalmama ölçütünü karşılamadı.
 
-## Antitrombotik tedavi sadeleştirilirken hastaya hangi iki sonucu birlikte anlatmak gerekir?
+Bir ayı olaysız geçirenlerde soru değişiyor. ULTIMATE-DAPT’ta bu aşamadan sonra tikagrelor tek başına sürdürülünce klinik açıdan önemli kanama yüzde 2,1, aspirinle birlikte yüzde 4,6 idi. İskemik birleşik sonuç için geri kalmama ölçütü sağlandı. Kararımda takvim kadar ilk ayda hastanın başına ne geldiği de önemli.
 
-Kanama olasılığıyla iskemik olay olasılığını birlikte konuşurum. NEO-MINDSET’te erken monoterapiyle önemli kanama %2,0, ikili tedaviyle %4,9 idi. Buna karşılık ölüm veya iskemik olay birleşimi %7,0 ve %5,5 idi. Tek olumlu sayıyı aktarmak, tedavi seçiminin asıl dengesini gizler. [NEO-MINDSET · N Engl J Med 2025](https://pubmed.ncbi.nlm.nih.gov/40888723/) · [2025 ACC/AHA AKS kılavuzu · J Am Coll Cardiol 2025](https://pubmed.ncbi.nlm.nih.gov/40013746/)
+[NEO-MINDSET](https://pubmed.ncbi.nlm.nih.gov/40888723/) · [ULTIMATE-DAPT](https://pubmed.ncbi.nlm.nih.gov/38599220/)
+
+LED önce “NEO-MINDSET · Ölüm veya iskemik olay” görselini açar. “Bir ayı olaysız geçirenlerde” sözünde “ULTIMATE-DAPT · Klinik açıdan önemli kanama” görseline geçer.
+
+## Max, erken aspirin kesmeyi düşünürken hastaya kanama ve iskemi dengesini nasıl anlatırsın?
+
+NEO-MINDSET’te aynı hastalar için iki farklı sonuca bakalım. İlk günlerde aspirin kesilince majör veya klinik açıdan önemli kanama yüzde 2, ikili tedaviyle yüzde 4,9 oldu.
+
+İskemik sonuçta tablo değişiyor. Ölüm, enfarktüs, inme veya acil yeniden girişim yüzde 7 ve yüzde 5,5 idi. Erken kesmenin bu açıdan yeterince güvenli kaldığı gösterilemedi. Hastaya iki sonucu yan yana anlatınca daha az kanamanın neden tek başına karar verdirmediği anlaşılır.
+
+[NEO-MINDSET](https://pubmed.ncbi.nlm.nih.gov/40888723/)
+
+LED önce “NEO-MINDSET · Klinik açıdan önemli kanama” görselini açar. “İskemik sonuçta” sözünde “NEO-MINDSET · Ölüm veya iskemik olay” görseline geçer.
+
+## Max, “tedaviyi sadeleştirelim” dediğimizde önce ilaç sayısını mı, hastanın günlük yükünü mü azaltmalıyız?
+
+Ben hastaya önce hangi ilacı, hangi gün ve neden alamadığını sorarım. Bazen sorun etken madde sayısı değil, üç farklı kutuyu her gün takip etmektir. SECURE çalışmasında infarktüs sonrasında aspirin, ramipril ve atorvastatini uygun hastalarda tek tablette birleştiren stratejiyle klinik olaylar azaldı. Bu bana iki farklı seçeneği hatırlatıyor. Bir ilacı kesmek etkisini de kaldırır. Uygun dozları bir araya getirmek ise gerekli tedaviyi sürdürmeyi kolaylaştırabilir.
+
+[SECURE](https://pubmed.ncbi.nlm.nih.gov/36018037/) · [NEO-MINDSET](https://pubmed.ncbi.nlm.nih.gov/40888723/)

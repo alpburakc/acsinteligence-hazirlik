@@ -25,3 +25,9 @@ Daniele Giacoppo, NEO-MINDSET’te kanama azalması ile erken aspirin kesilmesin
 ### TCTMD · 7 Nisan 2024
 
 ULTIMATE-DAPT tartışmasında bir ayı olaysız geçiren hastaların seçimi, sonuçların klinik kullanımında belirleyici. [ULTIMATE-DAPT: Another Boost for Solo Ticagrelor 1 Month After ACS PCI](https://www.tctmd.com/news/ultimate-dapt-another-boost-solo-ticagrelor-1-month-after-acs-pci)
+
+## Klinik bakış
+
+Ben hastaya önce hangi ilacı, hangi gün ve neden alamadığını sorarım. Bazen sorun etken madde sayısı değil, üç farklı kutuyu her gün takip etmektir. SECURE çalışmasında infarktüs sonrasında aspirin, ramipril ve atorvastatini uygun hastalarda tek tablette birleştiren stratejiyle klinik olaylar azaldı. Bu bana iki farklı seçeneği hatırlatıyor. Bir ilacı kesmek etkisini de kaldırır. Uygun dozları bir araya getirmek ise gerekli tedaviyi sürdürmeyi kolaylaştırabilir.
+
+[SECURE](https://pubmed.ncbi.nlm.nih.gov/36018037/) · [NEO-MINDSET](https://pubmed.ncbi.nlm.nih.gov/40888723/)

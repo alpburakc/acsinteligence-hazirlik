@@ -12,3 +12,9 @@ AKS ile şok ve elektif yüksek riskli PCI için kanıt tabanı ayrıdır. Mekan
 - AKS ve Hemodinamik İnstabil Hastada Cerrahi Seçenekler
 
 [ACS26 bilimsel programı](https://acslive.org/acs26/)
+
+## Ek sahne grafikleri
+
+- [DanGer-Shock · Birleşik güvenlik olayı](grafik-danger.png)
+- [ECLS-SHOCK · Tüm nedenlere bağlı ölüm](grafik-ecls.png)
+- [ECLS-SHOCK · Orta veya ağır kanama](grafik-eclsbleed.png)

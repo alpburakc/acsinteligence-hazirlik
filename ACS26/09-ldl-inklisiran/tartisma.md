@@ -23,3 +23,9 @@ Hayır. ORION-10 ve ORION-11 LDL düşüşünü ölçtü. İlaca özgü klinik o
 VICTORION-INCEPTION kongre haberinde AKS sonrasında LDL hedeflerine erken ulaşmanın pratik önemi tartışılıyor. Haberin tarihi, daha sonra çıkan hakemli sonuç makalesinden farklı. [Inclisiran Plus Usual Care Improves LDL Control in ACS: VICTORION-INCEPTION](https://www.tctmd.com/news/inclisiran-plus-usual-care-improves-ldl-control-acs-victorion-inception)
 
 Türkiye ürün kaydı etken maddeyi 284 mg inklisiran olarak tanımlar. [Farmanova kısa ürün bilgisi](https://www.farmanova.com.tr/sites/farmanova_com/files/Lyptimzia-KUB.pdf)
+
+## Klinik bakış
+
+Benim için gerçek sınav bir sonraki kontrol. Hasta enjeksiyona ulaşabildi mi, günlük tedavisine devam edebildi mi ve ölçtüğümüz LDL birlikte belirlediğimiz hedefe geldi mi? VICTORION-INCEPTION’da tedavi eklenen grupta bile hedefin üzerinde kalanlar vardı. Bu yüzden reçeteyi verirken bir sonraki ölçümün tarihini ve sonucu kimin değerlendireceğini de konuşurum. Hastanın sürdürebildiği plan, kâğıt üzerinde en güçlü görünen plandan daha değerlidir.
+
+[VICTORION-INCEPTION](https://pubmed.ncbi.nlm.nih.gov/42132192/) · [İnklisiran kanıt derlemesi](https://pubmed.ncbi.nlm.nih.gov/42392882/)

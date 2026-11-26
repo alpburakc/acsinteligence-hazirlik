@@ -11,3 +11,7 @@ PulseSelect’i tartışırken cihazı, AF tipini, izlem yöntemini ve blanking 
 - AF’de Yeni Enerji Modalitesi Pulse Field’in Patofizyolojisi
 
 [ACS26 bilimsel programı](https://acslive.org/acs26/)
+
+## Ek sahne grafikleri
+
+- [ADVENT · Paroksismal AF’de ablasyon başarısı](grafik-advent.png)

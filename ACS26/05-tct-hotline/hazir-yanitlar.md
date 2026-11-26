@@ -50,7 +50,7 @@ Stabil bir hastada önce iki şeye bakarım. Angina geri döndü mü? Bu lezyon 
 
 ## PROGRESS · ana soru
 
-**Orta aort darlığında PROGRESS’in hangi bulgusu kararımızı değiştirebilir?**
+**Max, orta aort darlığında başarıyı yalnız sağkalımla ölçersek PROGRESS’in hangi mesajını kaçırırız?**
 
 PROGRESS’te en az bir risk özelliği taşıyan orta aort darlığı hastaları incelendi. Ekranda iki yıllık birleşik sonucu görüyorsunuz. Ölüm veya kalp yetersizliği olayı erken TAVI ile yüzde 16,7, klinik izlemle yüzde 23,9 görüldü. Aradaki fark 7,2 yüzde puanıydı.
 

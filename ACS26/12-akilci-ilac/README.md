@@ -11,3 +11,8 @@ Programda bu beş dakikalık konuşmanın alt başlığı yayımlanmamış. Bu h
 - Akılcı İlaç Kullanımı
 
 [ACS26 bilimsel programı](https://acslive.org/acs26/)
+
+## Ek sahne grafikleri
+
+- [ULTIMATE-DAPT · Klinik açıdan önemli kanama](grafik-ultimate.png)
+- [NEO-MINDSET · Klinik açıdan önemli kanama](grafik-neobleed.png)

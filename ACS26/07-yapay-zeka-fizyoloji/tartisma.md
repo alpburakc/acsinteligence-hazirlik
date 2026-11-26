@@ -25,3 +25,11 @@ FAST III ve ALL-RISE tartışmasında anjiyografiden fizyoloji hesaplayan sistem
 ### PCRonline · TCT, Kasım 2026
 
 Ali Nazmi Çalık, BT’den anatomik ve fizyolojik bilgiyle planlama ile girişim sırasındaki IVUS kontrolünün iş akışında farklı zamanlara yanıt verdiğini tartışıyor. [Coronary CT angiography-guided vs. IVUS-guided PCI: the randomized P4 trial](https://www.pcronline.com/News/Congress-coverages/TCT/2026/P4-Trial-Coronary-CT-angiography-guided-vs-IVUS-guided-PCI)
+
+## Klinik bakış
+
+Ben şu soruyla başlarım. Ekrandaki tahmin farklı çıksaydı bu hastaya neyi farklı yapacaktım? Bir IVUS çalışmasında algoritma, aterektominin hangi kesiti etkileyeceğini tahmin etti. İki binden fazla kesit vardı ama bunlar yalnızca 60 hastadan geliyordu.
+
+PRECISE’te ise ölçülen şey bir hasta kararıydı. Kim invaziv incelemeye gidecek? Pratiğimi değiştiren kanıt, yüksek bir doğruluk yüzdesinden çok, model kullanıldığında doğru hastaya doğru işlemi daha sık yapabildiğimizi görmek.
+
+[IVUS ile aterektomi tahmini](https://pubmed.ncbi.nlm.nih.gov/38782227/) · [PRECISE](https://pubmed.ncbi.nlm.nih.gov/37610731/)

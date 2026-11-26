@@ -14,7 +14,7 @@ Bu olguya taşıdığım mesaj şu. Ana dala stent gerektiğinde, uygun bir yan 
 
 LED önce Medina anatomisini gösterir. “Yan dal ağzında en az yüzde 70” denirken DCB-BIF klinik sonuç grafiği açılır.
 
-## Max, yan dalın anjiyografide daha açık kalması hastaya klinik fayda olarak yansıyor mu?
+## Max, yan dalı anjiyografide daha güzel göstermekle hastaya gerçekten fayda sağlamak arasındaki çizgiyi nereye koyarsın?
 
 Ekranda OCVC-BIF’in yan dal sonuçlarını görüyorsunuz. Takip anjiyografisinde yeniden daralma ilaçlı balonla yüzde 8,1, konvansiyonel balonla yüzde 18,3 bulundu. Aynı çalışmada bir yıllık klinik olaylarda anlamlı bir fark gösterilemedi.
 

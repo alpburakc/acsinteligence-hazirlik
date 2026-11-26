@@ -23,3 +23,9 @@ Hayır. MANIFEST-17K kaydında pentaspline kateterle majör komplikasyon yaklaş
 Heart Rhythm bildirileri, PulseSelect kullanılan bir seride sessiz serebral lezyonların sistematik görüntülemeyle aranması dahil güvenlik izlemini tartışıyor. Görüntülemeyle bulunan lezyon, semptomatik inme ile aynı sonlanım değildir. [Studies Spotlight Safety Concerns With Pulsed-Field Ablation for AF](https://www.tctmd.com/news/studies-spotlight-safety-concerns-pulsed-field-ablation-af)
 
 PulseSelect’e özgü doğrulanmış bir PCRonline uzman değerlendirmesi bu seçkide bulunamadı.
+
+## Klinik bakış
+
+Bu iki bilgiyi ayrı ayrı kaydederim. İzlem protokolüne göre aritmi nüksü olabilir. Hasta ise daha az çarpıntı yaşıyor, daha rahat yürüyor ve acile gitmiyorsa günlük yaşamında anlamlı bir kazanım elde etmiş olabilir. PULSED AF’teki birleşik başarı tanımı bir araştırma sorusuna yanıt veriyor. Hastayla görüşürken ritim yükünü, belirtileri ve tedavi ihtiyacını yan yana koyarım. O zaman hem monitörü hem hastayı ciddiye almış oluruz.
+
+[PULSED AF · PulseSelect](https://pubmed.ncbi.nlm.nih.gov/36877118/)

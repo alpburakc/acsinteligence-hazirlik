@@ -13,3 +13,8 @@ BT-FFR işlem öncesi BT üzerinden, vFFR ve QFR kateter laboratuvarındaki anji
 - Anjiyografi ve BT FFR Tekniklerinin Geleceği
 
 [ACS26 bilimsel programı](https://acslive.org/acs26/)
+
+## Ek sahne grafikleri
+
+- [FAVOR III Europe · Bir yıllık klinik olay](grafik-favor.png)
+- [PRECISE · Obstrüktif hastalık bulunmayan kateterizasyon](grafik-precise.png)

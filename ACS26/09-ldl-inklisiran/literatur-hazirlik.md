@@ -19,3 +19,7 @@ Maksimum tolere edilen statine karşın yüksek LDL-K olanlarda 510. günde plas
 ## ORION-4
 
 Randomize kardiyovasküler sonlanım çalışması majör olaylar üzerine etkiyi test etmek için tasarlandı. 2026 tasarım yayını sonuçların 2027 başında beklendiğini bildiriyor. Bu yayın sonuç raporu değil. İlaçla MI veya ölüm azalması oranı çıkarmayın. [ORION-4 · Am Heart J 2027](https://pubmed.ncbi.nlm.nih.gov/42567431/)
+
+## ORION-4 · Oxford araştırma ekibi
+
+Araştırma ekibi klinik sonlanım sonuçlarının 2027 ilkbaharında açıklanmasını bekliyor. [ORION-4 · Oxford araştırma ekibi](https://www.orion4trial.org/files/orion-4-pil-2026-v1-1-final.pdf)

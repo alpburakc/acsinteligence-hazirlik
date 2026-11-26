@@ -61,3 +61,7 @@ Randomize non-inferiorite çalışması · N Engl J Med · İlk yayın 2026-11-0
 CCTA ile planlanan PCI (556) ile IVUS rehberli PCI (549) karşılaştırıldı. Bir yılda kardiyak ölüm, hedef damar MI veya iskemiye bağlı hedef damar revaskülarizasyonu %4,1 ve %4,6. Mutlak fark −0,42 yüzde puanı (%95 GA −2,82 ila 1,99). Marj 4,5 yüzde puanı, non-inferiorite p<0,001, üstünlük p=0,73.
 
 Çalışma, seçilmiş hastalarda kapsamlı bir BT planlama stratejisini sınadı. İşlem sırasında beklenmeyen bir stent sorununun BT ile saptanabileceğini göstermedi. [P4 · N Engl J Med 2026](https://pubmed.ncbi.nlm.nih.gov/42969897/)
+
+## FAVOR III Europe · Lancet 2024
+
+QFR ile %6,7, basınç teli ile %4,2. Bir yıllık birleşik olay için non-inferiorite gösterilemedi. [FAVOR III Europe · Lancet 2024](https://pubmed.ncbi.nlm.nih.gov/39488224/)

@@ -1,6 +1,6 @@
 # ACSinteligence · ACS26 oturum hazırlığı
 
-27–28 Kasım 2026 bilimsel oturumları program sırasındadır. Her oturumun iki hazır moderatör sorusu, kısa sözlü yanıtları, kaynaklı çalışma notları ve Türkçe grafikleri vardır. [Resmî bilimsel program](https://acslive.org/acs26/)
+27–28 Kasım 2026 bilimsel oturumları program sırasındadır. Cumartesi gününün sekiz bilimsel oturumunda üçer ana soru bulunur. Üçüncü soru klinik kararlara farklı bir açıdan bakar. [Cumartesi soru ve yanıtları](ACS26/cumartesi-panel.md). [Resmî bilimsel program](https://acslive.org/acs26/)
 
 | Sıra | Gün ve saat (İstanbul) | Oturum | Bilimsel kaynak |
 |---:|---|---|---:|

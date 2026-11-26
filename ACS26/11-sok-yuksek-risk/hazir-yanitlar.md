@@ -1,11 +1,29 @@
 # Heart Team Arena: Kardiyojenik Şok ve Yüksek Riskli PCI
 
-2026-11-28 · 16:30–17:30 · Ana Salon · Kaynak kontrolü 23 Kasım 2026
+28 Kasım Cumartesi · Moderatör için iki klinik soru ve bir klinik bakış sorusu
 
-## DanGer-Shock ile CHIP-BCIS3 birbirini çürütüyor mu?
+## Max, DanGer-Shock sonuçları yüksek riskli her PCI öncesinde pompa kullanmamızı gerektirir mi?
 
-Farklı hastaları değerlendiriyorlar. DanGer-Shock’ta STEMI’ye bağlı şokta mikroaksiyel pompayla 180 günlük ölüm azaldı, ciddi komplikasyonlar arttı. CHIP-BCIS3’te ağır sol ventrikül disfonksiyonu olan ama planlı kompleks PCI’ye giden hastada profilaktik pompa birincil sonucu iyileştirmedi. Önce hastanın şokta olup olmadığını netleştiririm. [DanGer-Shock · N Engl J Med 2024](https://pubmed.ncbi.nlm.nih.gov/38587239/) · [CHIP-BCIS3 · N Engl J Med 2026](https://pubmed.ncbi.nlm.nih.gov/41910380/)
+Önce hastanın şokta olup olmadığını sorarım. DanGer-Shock’ta STEMI’ye bağlı şokta 180 günlük ölüm, mikroaksiyel pompa eklenince yüzde 45,8, standart bakımla yüzde 58,5 idi.
 
-## Şokta erken mekanik destek seçimini hangi veri sınırlar?
+Bunun bir bedeli vardı. Birleşik güvenlik olayı pompayla yüzde 24, standart bakımla yüzde 6,2 oldu. Elektif kompleks PCI başka bir karar. CHIP-BCIS3’te ileri sol ventrikül bozukluğu olan hastalarda koruyucu pompa klinik sonucu iyileştirmedi. Aynı cihaz için farklı hastalara farklı yanıt veriyorum.
 
-ECLS-SHOCK’ta erken rutin ECLS ile 30 günlük ölüm azalmadı ve orta ya da ağır kanama daha sıktı. Hangi ventrikülün yetersiz olduğunu, hipoperfüzyonun gidişini ve düzeltilebilir mekanik ya da cerrahi bir neden olup olmadığını birlikte tartışmak gerekir. Bir cihazın sonucunu başka bir cihaza aktarmam. [ECLS-SHOCK · N Engl J Med 2023](https://pubmed.ncbi.nlm.nih.gov/37634145/) · [Kardiyojenik şok fenotipi · Curr Opin Crit Care 2025](https://pubmed.ncbi.nlm.nih.gov/40552838/)
+[DanGer-Shock](https://pubmed.ncbi.nlm.nih.gov/38587239/) · [CHIP-BCIS3](https://pubmed.ncbi.nlm.nih.gov/41910380/)
+
+LED önce “DanGer-Shock · Tüm nedenlere bağlı ölüm” görselini açar. “Bunun bir bedeli vardı” sözünde “DanGer-Shock · Birleşik güvenlik olayı” görseline geçer.
+
+## Max, infarktüse bağlı şokta ekibi rutin erken ECLS kurmaya hangi veri karşısında durup düşündürmeli?
+
+ECLS-SHOCK’ta erken revaskülarizasyon planlanan 417 hasta analiz edildi. Ekranda 30 günlük ölüm oranı var. Erken ECLS ile yüzde 47,8, standart bakımla yüzde 49. Rutin strateji sağkalımı iyileştirmedi.
+
+Kanama tarafında ise orta veya ağır kanama yüzde 23,4 ve yüzde 9,6 idi. Bu nedenle önce desteğin amacını netleştiririm. Sorumlu damarın açılmasına mı zaman kazanıyoruz, yoksa cerrahi olarak düzeltilebilecek bir mekanik sorun mu var? Bu soruların yanıtı ekibi aynı hedefte buluşturur.
+
+[ECLS-SHOCK](https://pubmed.ncbi.nlm.nih.gov/37634145/) · [2025 ACC/AHA AKS kılavuzu](https://pubmed.ncbi.nlm.nih.gov/40013746/)
+
+LED önce “ECLS-SHOCK · Tüm nedenlere bağlı ölüm” görselini açar. “Kanama tarafında” sözünde “ECLS-SHOCK · Orta veya ağır kanama” görseline geçer.
+
+## Max, şokta “bir şey daha yapalım” baskısı varken kalp ekibine hangi soruyu sorarsın?
+
+“Bu cihazla kazandığımız zamanı hangi geri döndürülebilir sorunu çözmek için kullanacağız?” diye sorarım. Sorumlu damarı açmak, mekanik komplikasyonu ameliyata taşımak veya toparlanmayı beklemek farklı hedefler. Her birinde desteği neye bakarak sürdüreceğimizi de baştan konuşurum. DanGer-Shock’ta yaşam kazanımıyla ciddi komplikasyonlar aynı çalışmada görüldü. Bu yüzden cihazı takabilmek kadar, desteğin amacını ve yeniden değerlendirme zamanını kararlaştırmak da tedavinin parçası.
+
+[DanGer-Shock](https://pubmed.ncbi.nlm.nih.gov/38587239/) · [2025 ACC/AHA AKS kılavuzu](https://pubmed.ncbi.nlm.nih.gov/40013746/) · [Kardiyojenik şok fenotipi](https://pubmed.ncbi.nlm.nih.gov/40552838/)

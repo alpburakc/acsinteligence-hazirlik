@@ -10,3 +10,7 @@ LYPTİMZİA’nın etken maddesi inklisirandır. LDL-K azalması, hedefe ulaşan
 
 
 [ACS26 bilimsel programı](https://acslive.org/acs26/)
+
+## Ek sahne grafikleri
+
+- [VICTORION-INCEPTION · LDL-K <55 mg/dL](grafik-ldl55.png)

@@ -25,3 +25,9 @@ CHIP-BCIS3’ün ikincil analizinde işlem sırasındaki miyokart hasarının ka
 ### PCRonline · ACC, Mart 2026
 
 Divaka Perera ile söyleşi, planlı yüksek riskli PCI sırasında profilaktik sol ventrikül boşaltmanın ne kazandırdığına odaklanıyor. Şokta kurtarma tedavisi ayrı bir sorudur. [Controlled trial of high-risk coronary intervention with percutaneous left ventricular unloading (CHIP-BCIS3)](https://www.pcronline.com/News/Congress-coverages/ACC/2026/CHIP-BCIS3-Left-ventricular-unloading-in-high-risk-PCI)
+
+## Klinik bakış
+
+“Bu cihazla kazandığımız zamanı hangi geri döndürülebilir sorunu çözmek için kullanacağız?” diye sorarım. Sorumlu damarı açmak, mekanik komplikasyonu ameliyata taşımak veya toparlanmayı beklemek farklı hedefler. Her birinde desteği neye bakarak sürdüreceğimizi de baştan konuşurum. DanGer-Shock’ta yaşam kazanımıyla ciddi komplikasyonlar aynı çalışmada görüldü. Bu yüzden cihazı takabilmek kadar, desteğin amacını ve yeniden değerlendirme zamanını kararlaştırmak da tedavinin parçası.
+
+[DanGer-Shock](https://pubmed.ncbi.nlm.nih.gov/38587239/) · [2025 ACC/AHA AKS kılavuzu](https://pubmed.ncbi.nlm.nih.gov/40013746/) · [Kardiyojenik şok fenotipi](https://pubmed.ncbi.nlm.nih.gov/40552838/)

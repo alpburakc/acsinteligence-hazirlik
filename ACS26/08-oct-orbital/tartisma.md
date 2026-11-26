@@ -25,3 +25,9 @@ Ajay Kirtane, her iki hazırlama stratejisine uygun, görüntülemeyle değerlen
 ### PCRonline · EuroPCR, Mayıs 2024
 
 Kalsiyum yayı, eksantrisite ve cihaz sonrası ekspansiyon tartışılıyor. Kayıt ve olgu sunumlarını yöntem üstünlüğü olarak okumamak gerekir. [Treatment strategies of calcified lesions](https://www.pcronline.com/Cases-resources-images/Resources/Course-videos-slides/2024/EuroPCR/Treatment-strategies-of-calcified-lesions)
+
+## Klinik bakış
+
+Bir sonraki müdahaleden önce gidermek istediğim sorunu adlandırırım. Stent bir noktada hâlâ yetersiz açılıyorsa bunun yeri ve ölçüsü ek işlem için somut bir gerekçe olabilir. Yeterli açılımı belgelediysek, bir çatlak daha görmek için cihaz eklemenin hastaya ne kazandıracağını söylemek güç. ECLIPSE’ten benim aldığım ders, işlem başarısını ürettiğimiz çatlak sayısıyla ölçmemek. Görüntü, kararımızı değiştirdiği ölçüde değerli.
+
+[ECLIPSE OCT alt çalışması · Circ Cardiovasc Interv 2026](https://pubmed.ncbi.nlm.nih.gov/41332372/) · [ECLIPSE](https://pubmed.ncbi.nlm.nih.gov/40174596/) · [SCAI kalsifik lezyon uzlaşısı](https://pubmed.ncbi.nlm.nih.gov/39132214/)

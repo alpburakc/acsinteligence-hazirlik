@@ -41,3 +41,7 @@ Rotational Atherectomy, Lithotripsy, or Laser for Calcified Coronary Stenosis: T
 Orta veya ağır kalsifik 171 hastada her kola 57 hasta düştü. OCT ile stent ekspansiyonu rotasyonel aterektomide %86,4, IVL’de %85,6 idi. IVL önceden belirlenen non-inferiorite ölçütünü karşıladı. ELCA niyetlenen tedavi analizinde bu ölçütü karşılamadı.
 
 Sonlanım stent ekspansiyonudur. Bu büyüklükteki çalışma mortalite farkını saptamak için tasarlanmadı. [ROLLER COASTR-EPIC22 · JACC Cardiovasc Interv 2025](https://pubmed.ncbi.nlm.nih.gov/39918495/)
+
+## ECLIPSE OCT alt çalışması · Circ Cardiovasc Interv 2026
+
+Orbital aterektomi ile çatlaklar daha fazla olmasına rağmen en ağır kalsifikasyondaki minimal stent alanında anlamlı fark gösterilemedi. [ECLIPSE OCT alt çalışması · Circ Cardiovasc Interv 2026](https://pubmed.ncbi.nlm.nih.gov/41332372/)
