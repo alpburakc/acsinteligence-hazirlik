@@ -14,11 +14,11 @@ PROGRESS’te en az bir risk özelliği taşıyan orta aort darlığı hastalar�
 
 Ölüm oranlarına baktığımızda erken TAVI grubunda yüzde 8,4, izlem grubunda yüzde 7,3 görüyoruz. İki yılda sağkalım avantajı gösterilemedi.
 
-Kalp yetersizliği olaylarında ise oran erken TAVI ile yüzde 10,8, izlemle yüzde 19’du. Buna hastaneye yatmadan tedavi edilen kötüleşmeler de dahildi. Benim için erken girişimi tartışmaya değer kılan bulgu bu. Üstelik izlem grubunun yarıdan fazlasına iki yıl içinde zaten kapak değişimi yapıldı. [Généreux ve ark., NEJM · 2 Kasım 2026](https://doi.org/10.1056/NEJMoa2607326) [PROGRESS · N Engl J Med 2026](https://pubmed.ncbi.nlm.nih.gov/42970708/) · [TAVR UNLOAD · J Am Coll Cardiol 2025](https://pubmed.ncbi.nlm.nih.gov/39480381/)
+Kalp yetersizliği olaylarında ise oran erken TAVI ile yüzde 10,8, izlemle yüzde 19’du. Buna hastaneye yatmadan tedavi edilen kötüleşmeler de dahildi. İzlem grubunun yarıdan fazlasına iki yıl içinde kapak değişimi yapıldı. Benim için bu bulgu, kalp yetersizliği tekrarlayan riskli bir hastada kapak değişiminin zamanını kalp ekibiyle daha erken konuşmak için bir gerekçe. [Généreux ve ark., NEJM · 2 Kasım 2026](https://doi.org/10.1056/NEJMoa2607326) [PROGRESS · N Engl J Med 2026](https://pubmed.ncbi.nlm.nih.gov/42970708/) · [TAVR UNLOAD · J Am Coll Cardiol 2025](https://pubmed.ncbi.nlm.nih.gov/39480381/)
 
 ## P4 ve TRANSFORM II aynı tür başarıyı mı gösterdi?
 
-İkisi de non-inferiorite sınaması yaptı ama soruları farklıydı. P4’te BT planlaması ile IVUS’un bir yıllık hedef damar sonuçları karşılaştırıldı. TRANSFORM II’de iyi hazırlanmış de novo lezyonda sirolimuslu balon ile everolimuslu stentin hedef lezyon başarısızlığı %2,1 ve %2,4 bulundu. Bu verilerden BT’nin IVUS’a veya balonun stente üstün olduğu sonucu çıkmaz. [P4 · N Engl J Med 2026](https://pubmed.ncbi.nlm.nih.gov/42969897/) · [TRANSFORM II · TCT 2026, San Diego 2026](https://www.fondazioneric.org/clinical-trials/transform-ii/)
+İki çalışma da benzer bir soru sordu. Yeni yaklaşımla elde ettiğimiz sonuç, standart tedavinin ne kadar gerisinde kalabilir? Her çalışma bunun için baştan bir sınır koydu. P4’te BT ile planlanan girişimler bir yıllık hedef damar sonuçları açısından, TRANSFORM II’de ise iyi hazırlanmış lezyonlarda ilaçlı balon bir yıllık hedef lezyon sonuçları açısından bu sınırı karşıladı. Benim buradan çıkardığım sonuç, çalışmalardaki gibi seçilmiş hastalarda bir seçeneğimiz daha olduğu. Üstünlük için ayrı kanıt gerekir. [P4 · N Engl J Med 2026](https://pubmed.ncbi.nlm.nih.gov/42969897/) · [TRANSFORM II · TCT 2026, San Diego 2026](https://www.fondazioneric.org/clinical-trials/transform-ii/)
 
 ## Uzmanların tartıştığı noktalar
 
